@@ -72,7 +72,7 @@ Run the code using  Python environment (e.g., Jupyter Notebook, VSCode):
 Run the Streamlit app:
 
 ```bash
-  streamlit run app.py
+  streamlit run heart_prediction_web.py
 
 ```
 
